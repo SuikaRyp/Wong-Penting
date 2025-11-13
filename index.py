@@ -17,22 +17,22 @@ from telegram import Update
 # --- Configuration (Fill in your details) ---
 # Your Telegram Bot Token here. You can get it from BotFather.
 # Example: YOUR_BOT_TOKEN = "1234567890:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
-YOUR_BOTTOKEN = "838984920xQBnH4K802Y" # <--- This line needs to be changed
+YOUR_BOTTOKEN = "8480047016:AAH0WgyOg3YDw11fnvXCFbz6e_GVAT2UXJs" # <--- This line needs to be changed
 
 # ==================== New Addition: Multiple Admin IDs ====================
 # Add your and other admins' Telegram User IDs to the list below
-ADMIN_CHAT_IDS = ["77705"] # Example: ["YOUR_ADMIN_USER_ID_1", "YOUR_ADMIN_USER_ID_2"]
+ADMIN_CHAT_IDS = ["7613900027"] # Example: ["YOUR_ADMIN_USER_ID_1", "YOUR_ADMIN_USER_ID_2"]
 # =================================================================
 
 # Old chat IDs kept for the first run
-INITIAL_CHAT_IDS = ["-100378052"] 
+INITIAL_CHAT_IDS = ["-1002768406388"] 
 
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
 SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
 
-USERNAME = "caminating.com"
-PASSWORD = "sojit@##"
+USERNAME = "Suika"
+PASSWORD = "Suika"
 
 # Reduced interval to 2 seconds to keep the bot responsive and reduce server load
 POLLING_INTERVAL_SECONDS = 1 
